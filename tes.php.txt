@@ -1,2 +1,5 @@
 laotie
+<<<<<<< HEAD
 laotie
+=======
+>>>>>>> feature2
